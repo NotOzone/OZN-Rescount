@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# Rescount 🧾
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Rescount è una semplice ma potente applicazione per calcolare sconti. Inserisci un prezzo, applica uno sconto e vedi immediatamente il risultato. Tieni traccia dei tuoi calcoli in una comoda tabella.
 
-## Available Scripts
+![Anteprima di Rescount](public/preview_OZN-Rescount.png)
 
-In the project directory, you can run:
+## ✨ Funzionalità
 
-### `npm start`
+- **Calcolo Rapido**: Inserisci un prezzo e seleziona una percentuale di sconto per vedere subito il prezzo finale.
+- **Tabella Cronologia**: Ogni calcolo viene aggiunto a una tabella per un facile riferimento.
+- **Filtri per Sconto**: Filtra la tabella per visualizzare solo i calcoli con una specifica percentuale di sconto.
+- **Eliminazione Singola**: Rimuovi i singoli calcoli dalla tabella.
+- **Tema Scuro**: Un'interfaccia elegante e piacevole per gli occhi.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Tecnologie Utilizzate
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [React](https://reactjs.org/)
+- [NextUI](https://nextui.org/) per i componenti dell'interfaccia utente.
+- HTML & CSS
 
-### `npm test`
+## 🏁 Iniziare
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Per eseguire il progetto in locale, segui questi passaggi:
 
-### `npm run build`
+1.  Clona la repository:
+    ```sh
+    git clone https://github.com/tuo-username/rescount.git
+    ```
+2.  Installa le dipendenze:
+    ```sh
+    npm install
+    ```
+3.  Avvia l'applicazione in modalità di sviluppo:
+    ```sh
+    npm start
+    ```
+    Apri [http://localhost:3000](http://localhost:3000) per vederla nel browser.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 👨‍💻 Sviluppato da
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Ozone**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+_Questo progetto è stato inizializzato con [Create React App](https://github.com/facebook/create-react-app)._ 
