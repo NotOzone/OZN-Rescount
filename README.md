@@ -1,4 +1,4 @@
-# Rescount 🧾
+# OZN Rescount 🧾
 
 Rescount è una semplice ma potente applicazione per calcolare sconti. Inserisci un prezzo, applica uno sconto e vedi immediatamente il risultato. Tieni traccia dei tuoi calcoli in una comoda tabella.
 
@@ -24,7 +24,7 @@ Per eseguire il progetto in locale, segui questi passaggi:
 
 1.  Clona la repository:
     ```sh
-    git clone https://github.com/tuo-username/rescount.git
+    git clone https://github.com/NotOzone/OZN-Rescount.git
     ```
 2.  Installa le dipendenze:
     ```sh
